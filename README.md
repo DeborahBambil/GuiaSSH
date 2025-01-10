@@ -5,6 +5,6 @@ O Guia SSH oferece uma coleção abrangente de comandos essenciais e avançados 
 
 **Files:**
 
-- `GuiaSSH.pdf` (code)
-- `Guia instalação SO Virtual box.pdf` (code)
+- `GuiaSSH.pdf`
+- `Guia instalação SO Virtual box.pdf`
 
